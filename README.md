@@ -1,1 +1,112 @@
 # nima-ekhteraey.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Dr. Nima Ekhteraey | Civil Engineering Researcher</title>
+
+<meta name="description" content="Dr. Nima Ekhteraey, Ph.D. in Project Management & Construction. Researcher in AI-based concrete evaluation, non-destructive testing, and energy optimization.">
+<meta name="keywords" content="Nima Ekhteraey, Civil Engineering, AI Concrete, NDT, Energy Optimization, Construction Management">
+<meta name="author" content="Nima Ekhteraey">
+<meta name="robots" content="index, follow">
+
+<link rel="canonical" href="https://nima-ekhteraey.github.io/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nima Ekhteraey",
+  "honorificPrefix": "Dr.",
+  "jobTitle": "Civil Engineering Researcher",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Islamic Azad University"
+  },
+  "alumniOf": {
+    "@type": "CollegeOrUniversity",
+    "name": "Islamic Azad University, Science and Research Branch"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/nima-ekhteraey",
+    "https://doi.org/10.1080/10589759.2025.2604296"
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence in Civil Engineering",
+    "Non-Destructive Testing",
+    "Concrete Engineering",
+    "Energy Optimization in Hot Climate Regions",
+    "Construction Project Management"
+  ]
+}
+</script>
+
+<style>
+body {font-family: Arial, sans-serif; margin: 40px; line-height: 1.7;}
+h1,h2 {color:#1a237e;}
+a {color:#0d47a1;}
+.section {margin-bottom: 40px;}
+</style>
+</head>
+
+<body>
+
+<h1>Dr. Nima Ekhteraey</h1>
+<h3>Ph.D. in Project Management & Construction</h3>
+
+<div class="section">
+<h2>About Me</h2>
+<p>
+I am a Ph.D. holder in Project Management and Construction with extensive research experience
+in civil engineering, artificial intelligence applications, non-destructive testing of concrete,
+and energy consumption optimization in hot climate regions.
+</p>
+</div>
+
+<div class="section">
+<h2>Academic Background</h2>
+<ul>
+<li>
+<strong>Ph.D. in Project Management & Construction</strong><br>
+Islamic Azad University – Science and Research Branch
+</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Publications</h2>
+<p>
+<strong>AI-Based Prediction of Mechanical Properties of Concrete Using Non-Destructive Testing Methods</strong><br>
+Nima Ekhteraey (2025)<br>
+<em>Nondestructive Testing and Evaluation</em>, Taylor & Francis<br>
+DOI:
+<a href="https://doi.org/10.1080/10589759.2025.2604296" target="_blank">
+10.1080/10589759.2025.2604296
+</a>
+</p>
+</div>
+
+<div class="section">
+<h2>Research Interests</h2>
+<ul>
+<li>Artificial Intelligence in Civil Engineering</li>
+<li>Non-Destructive Testing of Concrete</li>
+<li>Energy Optimization in Hot Climate Regions</li>
+<li>Construction Project Management</li>
+<li>Sustainable Infrastructure</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Professional Profiles</h2>
+<ul>
+<li>LinkedIn:
+<a href="https://www.linkedin.com/in/nima-ekhteraey" target="_blank">
+linkedin.com/in/nima-ekhteraey
+</a>
+</li>
+</ul>
+</div>
+
+</body>
+</html>
