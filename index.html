@@ -1,4 +1,20 @@
 <!DOCTYPE html>
+<style>
+.profile-pic {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.profile-pic img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #ddd;
+}
+</styl
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -20,6 +36,10 @@ body {
     color: #333;
     line-height: 1.7;
 }
+    <div class="profile-pic">
+  <img src="images/nima.jpg" alt="Nima Ekhteraey">
+</div>
+    
 header {
     background: #0b3c5d;
     color: #fff;
@@ -351,6 +371,7 @@ Predicting Indirect Tensile Stiffness Modulus of Bituminous Mixtures Using Artif
 }
 </style>
 </html>
+
 
 
 
